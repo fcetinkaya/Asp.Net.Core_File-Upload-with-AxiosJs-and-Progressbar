@@ -1,0 +1,162 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="intro-message">
+    <h1>Asp.Net Core - File Upload</h1>
+    <h3>Contoller of Javascript (AxiosJs and Progress Bar)</h3>
+    <hr class="intro-divider">
+</div>
+<div class="notification"></div>
+@if ((string)TempData["UploadFile"] == "Success")
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>File</strong> Sucessfully Upload!
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+
+<div class="col-sm-6 card p-0 mb-5 float-left">
+    <div class="card-header bg-primary">
+        Single File Upload (Controller)
+    </div>
+    <div class="card-body">
+        <form asp-controller="Home" asp-action="SingleFile" enctype="multipart/form-data" method="post" onsubmit="theButton.disabled = true; return true;">
+            <div class="form-group col-md-12">
+                <input id="singleUploadController" class="custom-file-input" type="file" name="file" accept="image/*" />
+                <label class="custom-file-label">Choose file</label>
+            </div>
+            <div class="form-group col-md-6 p-0">
+                <button id="SinglePostControllerBtn" name="theButton" class="btn btn-primary" type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="col-sm-6 card p-0 mb-5 float-right">
+    <div class="card-header bg-danger">
+        Single File Upload (JS)
+    </div>
+    <div class="card-body">
+        <div class="form-group col-md-12">
+            <input id="JsSingleFile" class="custom-file-input" name="file" type="file" accept="image/*" />
+            <label class="custom-file-label">Choose file</label>
+        </div>
+        <div class="form-group col-md-6 p-0">
+            <button id="SinglePostJsBtn" class="btn btn-danger">Submit</button>
+        </div>
+    </div>
+</div>
+<div class="col-sm-6 card p-0 mb-5 float-left">
+    <div class="card-header bg-dark text-white">
+        Multiple File Upload (Controller)
+    </div>
+    <div class="card-body">
+        <form asp-controller="Home" asp-action="MultipleFiles" enctype="multipart/form-data" method="post" onsubmit="theButton.disabled = true; return true;">
+            <div class="form-group col-md-12">
+                <input id="multipleUploadController" class="custom-file-input" type="file" name="files" multiple accept="image/*" />
+                <label class="custom-file-label">Choose file</label>
+            </div>
+            <div class="form-group col-md-6 p-0">
+                <button name="theButton" class="btn btn-dark" type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="col-sm-6 card p-0 mb-5 float-right">
+    <div class="card-header bg-info">
+        Multiple File Upload (JS)
+    </div>
+    <div class="card-body">
+        <div class="form-group col-md-12">
+            <input id="MultipleFile" class="custom-file-input" type="file" multiple accept="image/*" />
+            <label class="custom-file-label">Choose file</label>
+        </div>
+        <div class="form-group col-md-6 p-0">
+            <button id="MultiplePostJsBtn" class="btn btn-info text-white" type="submit">Submit</button>
+        </div>
+    </div>
+</div>
+
+
+@section scripts {
+    <script>
+        // Loading Effect
+        loadProgressBar();
+
+        (function () {
+
+            // Success Notification
+            function Success() {
+                $('.notification').html(
+                    "<div class='alert alert-success alert-dismissible fade show' role='alert'><strong>File&nbsp;</strong>Sucessfully Uploaded!!! <button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button></div>"
+                );
+
+                var position = $(".notification").offset().top;
+                $("HTML, BODY").animate({
+                    scrollTop: position
+                }, 1000);
+            };
+
+            // Fileupload of value set file name with Controller
+            $('#singleUploadController').on('change', function () {
+                var file = $('#singleUploadController')[0].files[0];
+                $(this).next().text(file.name);
+            });
+            $('#multipleUploadController').on('change', function () {
+                var files = [];
+                for (var i = 0; i < $(this)[0].files.length; i++) {
+                    files.push($(this)[0].files[i].name);
+                }
+                $(this).next().text(files.length + ' files selected');//files.join(', ')
+            });
+
+            // Single Image Upload
+            $('#SinglePostJsBtn').click(function () {
+                $('#SinglePostJsBtn').prop('disabled', true);
+                var singleData = new FormData();
+                singleData.append('file', $('#JsSingleFile')[0].files[0]);
+                axios.post("/Home/SingleFile", singleData)
+                    .then(
+                        $('#SinglePostJsBtn').prop('disabled', false),
+                        Success()
+                    ).catch(function (err) {
+                        console.log(err.message);
+                    });
+            });
+            $('#JsSingleFile').on('change', function () {
+                var file = $('#JsSingleFile')[0].files[0];
+                $(this).next().text(file.name);
+            });
+            // End Code
+
+            // Multiple Image Upload
+            $('#MultiplePostJsBtn').click(function () {
+                $('#MultiplePostJsBtn').prop('disabled', true);
+                var Selectedfiles = $('#MultipleFile')[0].files;
+                console.log(Selectedfiles);
+                var multipleData = new FormData();
+                for (var i = 0; i < Selectedfiles.length; i++) {
+                    multipleData.append("files", Selectedfiles[i]);
+                };
+                axios.post("/Home/MultipleFiles", multipleData)
+                    .then(
+                        $('#MultiplePostJsBtn').prop('disabled', false),
+                        Success()
+                    ).catch(function (err) {
+                        console.log(err.message);
+                    });
+            });
+            $('#MultipleFile').on('change', function () {
+                var files = [];
+                for (var i = 0; i < $(this)[0].files.length; i++) {
+                    files.push($(this)[0].files[i].name);
+                }
+                $(this).next().text(files.length + ' files selected');//files.join(', ')
+            });
+            // End Code
+
+        })();
+    </script>
+}

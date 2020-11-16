@@ -1,0 +1,1061 @@
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.exe
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.deps.json
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.runtimeconfig.json
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.runtimeconfig.dev.json
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.pdb
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.pdb
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.AssemblyInfoInputs.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.AssemblyInfo.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.csproj.CoreCompileInputs.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorAssemblyInfo.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorAssemblyInfo.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.TagHelpers.input.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.TagHelpers.output.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorCoreGenerate.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorTargetAssemblyInfo.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorTargetAssemblyInfo.cs
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.pdb
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.csproj.CopyComplete
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore_FileUpload.StaticWebAssets.Manifest.cache
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore_FileUpload.StaticWebAssets.xml
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.dll
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.pdb
+C:\Users\FatihCetinkaya\source\repos\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.genruntimeconfig.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.exe
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.deps.json
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.runtimeconfig.json
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.runtimeconfig.dev.json
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.pdb
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.pdb
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.AssemblyInfoInputs.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.AssemblyInfo.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorAssemblyInfo.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorAssemblyInfo.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.TagHelpers.input.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.TagHelpers.output.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorCoreGenerate.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorTargetAssemblyInfo.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorTargetAssemblyInfo.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.pdb
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.csproj.CopyComplete
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore_FileUpload.StaticWebAssets.Manifest.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore_FileUpload.StaticWebAssets.xml
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.pdb
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.genruntimeconfig.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Firebase.Auth.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Firebase.Storage.dll
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.csproj.CoreCompileInputs.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.MvcApplicationPartsAssemblyInfo.cs
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.MvcApplicationPartsAssemblyInfo.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.csprojAssemblyReference.cache
+D:\Werk Fatih\Project\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCore_FileUpload.styles.css
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.exe
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.deps.json
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.runtimeconfig.json
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.runtimeconfig.dev.json
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.pdb
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.pdb
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Firebase.Auth.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Firebase.Storage.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.AssemblyInfoInputs.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.AssemblyInfo.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.csproj.CoreCompileInputs.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.MvcApplicationPartsAssemblyInfo.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.MvcApplicationPartsAssemblyInfo.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorAssemblyInfo.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorAssemblyInfo.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore_FileUpload.StaticWebAssets.Manifest.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore_FileUpload.StaticWebAssets.xml
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCore_FileUpload.styles.css
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.TagHelpers.input.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.TagHelpers.output.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorCoreGenerate.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorTargetAssemblyInfo.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.RazorTargetAssemblyInfo.cs
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.Views.pdb
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.csproj.CopyComplete
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.dll
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.pdb
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.genruntimeconfig.cache
