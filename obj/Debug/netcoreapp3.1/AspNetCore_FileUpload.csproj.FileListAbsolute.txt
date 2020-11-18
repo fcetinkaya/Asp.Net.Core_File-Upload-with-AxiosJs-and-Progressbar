@@ -1059,3 +1059,4 @@ D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3
 D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.dll
 D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.pdb
 D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.genruntimeconfig.cache
+D:\FTH\Software Project\Asp.Net Core\AspNetCore_FileUpload\obj\Debug\netcoreapp3.1\AspNetCore_FileUpload.csprojAssemblyReference.cache
