@@ -1,5 +1,5 @@
-# Asp.net Mvc - File Upload with DropzoneJS
->  Asp.net Core - File Upload with AxiosJs, DropzoneJs and Progressbar
+# Asp.net Mvc - File Upload Tutorials
+>  Asp.net Core - File Upload with AxiosJs and Progressbar
 
 ## Table of contents
 * [General info](#general-info)
