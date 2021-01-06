@@ -1,5 +1,5 @@
-# Asp.Net Core Mvc - File Upload Tutorials
->  Asp.Net Core MVC - File Upload with AxiosJs and Progressbar
+# Asp.Net Core Mvc - File Upload Tutorial
+> AxiosJs and Progressbar
 
 ## Table of contents
 * [General info](#general-info)
